@@ -1,0 +1,21 @@
+baseURL = "https://BigorexicGeek.github.io/dwes"
+languageCode = "en-us"
+title = "Desarrollo de aplicaciones Web en el servidor"
+theme='learn'
+
+[param]
+themeVariants="mio"
+
+[outputs]
+home=['HTML','JSON','RSS']
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'>Repositorio GitHub</i>"
+identifier = "gh"
+url = "https://github.com/BigorexicGeek"
+weight = ""
+
+[[menu.shortcuts]]
+
+
+[[menu.shortcuts]]
