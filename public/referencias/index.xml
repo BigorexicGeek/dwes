@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Referencias on Desarrollo de aplicaciones Web en el servidor</title>
+    <link>https://BigorexicGeek.github.io/dwes/referencias/</link>
+    <description>Recent content in Referencias on Desarrollo de aplicaciones Web en el servidor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 17:04:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://BigorexicGeek.github.io/dwes/referencias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

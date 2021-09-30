@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo de aplicaciones web on Desarrollo de aplicaciones Web en el servidor</title>
+    <link>https://BigorexicGeek.github.io/dwes/</link>
+    <description>Recent content in Desarrollo de aplicaciones web on Desarrollo de aplicaciones Web en el servidor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 17:04:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://BigorexicGeek.github.io/dwes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Descargas</title>
+      <link>https://BigorexicGeek.github.io/dwes/contenidos/descargas/</link>
+      <pubDate>Thu, 30 Sep 2021 17:10:32 +0200</pubDate>
+      
+      <guid>https://BigorexicGeek.github.io/dwes/contenidos/descargas/</guid>
+      <description>Contenido descargable   Descarga estos ficheros de ejemplo   FF_shortcuts.pdf  (0 kb)   agenda.pdf  (1 kb)    </description>
+    </item>
+    
+    <item>
+      <title>Tema 1</title>
+      <link>https://BigorexicGeek.github.io/dwes/contenidos/tema_1/</link>
+      <pubDate>Tue, 28 Sep 2021 20:07:19 +0200</pubDate>
+      
+      <guid>https://BigorexicGeek.github.io/dwes/contenidos/tema_1/</guid>
+      <description>Título Apache, php, hugo, etc&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Tema 2</title>
+      <link>https://BigorexicGeek.github.io/dwes/contenidos/tema_2/</link>
+      <pubDate>Tue, 28 Sep 2021 17:08:24 +0200</pubDate>
+      
+      <guid>https://BigorexicGeek.github.io/dwes/contenidos/tema_2/</guid>
+      <description>Título Coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

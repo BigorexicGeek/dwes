@@ -1,0 +1,56 @@
+COSAS INTERESANTES
+16/09/2021
+  DAW 
+   C#: lenguaje de programación a tener en cuenta para el presente y futuro
+
+
+20/09/2021
+  DIW
+   DynDNS: Sistema de DNS para IPs fijas
+   emmet: extensión para eficiencia programando
+
+
+21/09/2021
+  DWES
+   PhpStorm: Para desarrollar con Php
+
+  DWEC
+   ionos.com: cloud hosting
+   www.dot.tk: dominios gratis
+
+
+22/09/2021
+  DWES
+   Ir haciendo ejercicios
+   Pregunta que puso en un examen
+   ¿Qué ocurre si un fichero html escribo código php y lo ejecuto?
+   - obvia las etiquetas de php ya que no las entiende y muestra el texto del html
+   - mezcla parte del texto de php incluídas algunas etiquetas, ya que al estar "mezclado",
+    no lo interpreta bien.
+ 
+  DAW
+   Reunión de FCTs en el extranjero (Erasmus+)
+    29/09 -> Si hay mucho aforo
+    30/09 - 14:30
+   Errata en documento "Comandos Ubuntu":
+    umask: Libera el enlace simbólico y finaliza todo los procesos de lectura y escritura
+    para expulsar de manera correcta la unidad del equipo.
+
+
+28/09/2021
+  DWES
+   Hugo: Generador de Sitios Web estáticos
+    Learn: Plantilla
+     themes /learn > layouts > index.html
+                             > partials > 
+          _index.md
+          contenido.md
+            _index.md (de tipo chapter, en esta plantilla {learn}, en otras quizás no)
+            tema1.md
+              php, etc
+            tema2
+          prácticas.md
+            _index.md
+            prácticaX.md
+          referencias.md
+          otras_cosas.md
