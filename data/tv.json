@@ -1,0 +1,57 @@
+[ {
+  "name": "Generalistas",
+  "channels": [
+    {
+      "name": "La 1",
+      "web": "https://www.rtve.es/play/videos/directo/la-1/",
+      "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
+      "epg_id": "La1.TV",
+      "options": [
+        {
+          "format": "m3u8",
+          "url": "https://rtvelivestreamv3.akamaized.net/la1_main_dvr.m3u8",
+          "geo2": null,
+          "res": null,
+          "lang": null
+        },
+        {
+          "format": "m3u8",
+          "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8",
+          "geo2": null,
+          "res": null,
+          "lang": null
+        },
+        {
+          "format": "m3u8",
+          "url": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+          "geo2": null,
+          "res": null,
+          "lang": null
+        }
+      ],
+      "extra_info": []
+    },
+    {
+      "name": "La 2",
+      "web": "https://www.rtve.es/play/videos/directo/la-2/",
+      "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
+      "epg_id": "La2.TV",
+      "options": [
+        {
+          "format": "m3u8",
+          "url": "https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8",
+          "geo2": null,
+          "res": null,
+          "lang": null
+        },
+        {
+          "format": "m3u8",
+          "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8",
+          "geo2": null,
+          "res": null,
+          "lang": null
+        },
+        {
+          "format": "m3u8",
+          "url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8",
+          "geo2": null,
