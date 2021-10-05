@@ -5,6 +5,7 @@ theme='learn'
 
 [param]
 themeVariants="mio"
+landingPageURL="https://BigorexicGeek.github.io/dwes"
 
 [outputs]
 home=['HTML','JSON','RSS']
