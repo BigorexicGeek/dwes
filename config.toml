@@ -2,16 +2,35 @@ baseURL = "https://BigorexicGeek.github.io/dwes"
 languageCode = "en-us"
 title = "Desarrollo de aplicaciones Web en el servidor"
 theme='learn'
+defaultContentLanguage="es"
+defaultContentLanguageinSubdir="true"
 
-[param]
+[params]
 themeVariants="mio"
 landingPageURL="https://BigorexicGeek.github.io/dwes"
 
 [outputs]
 home=['HTML','JSON','RSS']
 
-[[menu.shortcuts]]
+[languages]
+[languages.es]
+title = "Desarrollo web en entorno servidor"
+weight="1"
+languageName="Español"
+
+[languages.en]
+title = "Web development in server enviroment"
+weight="2"
+languageName="English"
+
+[[languages.es.menu.shortcuts]]
 name = "<i class='fab fa-github'>Repositorio GitHub</i>"
+identifier = "gh"
+url = "https://github.com/BigorexicGeek/dwes"
+weight = ""
+
+[[languages.en.menu.shortcuts]]
+name = "<i class='fab fa-github'>GitHub Repository</i>"
 identifier = "gh"
 url = "https://github.com/BigorexicGeek/dwes"
 weight = ""
